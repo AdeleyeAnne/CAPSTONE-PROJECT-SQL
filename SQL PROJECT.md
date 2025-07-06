@@ -40,8 +40,14 @@ Express Air is the fastest but the most expensive one, do you think the company
 appropriately spent shipping costs based on the Order Priority? Explain your answer
 
 ## 📘Summary
-The SQL query analysis revealed key insights into sales distribution across categories, regions, shipping methods, and customer value. The Technology category emerged as the top-performing segment with total sales of 4,739,149. Regionally, Ontario led in sales figures, followed closely by the Prairie and Atlantic regions. In contrast, Nunavut recorded the lowest sales, followed by the Northwest Territory and Yukon.
-In terms of logistics, the most commonly used shipping mode was delivery truck, indicating a preference Or low Cost in this method. Additionally, the data showed that the most valuable customer made purchases predominantly in the Technology category.
+The SQL query analysis revealed key insights into sales distribution across categories, regions, shipping methods, and customer value. 
+The Technology category emerged as the top-performing segment with total sales of 4,739,149. 
+Regionally, Ontario led in sales figures, followed closely by the Prairie and Atlantic regions. 
+In contrast, Nunavut recorded the lowest sales, followed by the Northwest Territory and Yukon.
+In terms of logistics, the most commonly used shipping mode was delivery truck, 
+indicating a preference Or low Cost in this method. 
+Additionally, the data showed that the most valuable customer made purchases predominantly in the Technology category.
+
 ## 📌Conclusion
 The analysis highlights a strong market demand for technology products, particularly in Ontario. The concentration of sales in specific regions and product categories suggests strategic 
 opportunities for targeted marketing and resource allocation. The reliance on delivery trucks as the primary shipping mode also points to a need for optimized logistics planning. Businesses can leverage these insights to drive growth, especially by focusing on high-performing regions and customer segments, while exploring ways to boost sales in underperforming areas like Nunavut.
