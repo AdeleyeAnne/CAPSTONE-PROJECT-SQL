@@ -4,7 +4,7 @@
 - ** Table name: ** `KMS_Inventory`
 - ** Total records: **  6929 rows
 - ** columns: ** 21
-- 
+ 
 ### 👀Taking a view look of our data set
 
  ```sql
